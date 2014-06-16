@@ -1,8 +1,6 @@
-JSP-Eindopdracht-Jaar1
+JSP-Eindopdracht-Jaar1 Changelog:
 ======================
 
-Changelog:
-======================
 
 16-6-2014 om 9:00 uur
 ======================
